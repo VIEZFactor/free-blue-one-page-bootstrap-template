@@ -1,0 +1,138 @@
+p {
+  margin-bottom: 0;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  margin-bottom: 0;
+}
+
+p, h1, h2, h3, h4, h5, h6, a, input, textarea {
+  font-family: 'Montserrat',sans-serif;
+}
+
+nav.container-menu {
+  background-color: #0046C8;
+  padding-top: 1em;
+  padding-bottom: 1em;
+}
+
+#navbar-menu a {
+  font-size: 1.5em;
+}
+
+#header-info {
+  background-color: white;
+  padding-top: 1em;
+  padding-bottom: 1em;
+}
+
+#header-info a {
+  padding-left: 0.5em;
+  font-size: 1.5em;
+}
+
+#home-banner h1 {
+  font-size: 3em;
+}
+
+#about-us {
+  background-color: #47c2ff;
+  padding-top: 3em;
+  padding-bottom: 3em;
+}
+
+#about-us h2 {
+  font-size: 3em;
+  padding-bottom: 0.5em;
+}
+
+#about-us p {
+  font-size: 1.3em;
+  text-align: justify;
+}
+
+.short-hr {
+  width: 50px;
+  margin: auto;
+}
+
+#services {
+  background-color: #eaeaea;
+  padding-top: 5em;
+  padding-bottom: 5em;
+}
+
+#services h2 {
+  font-size: 4em;
+  color: #0046c8;
+  font-weight: 900;
+  padding-bottom: 0.5em;
+}
+
+#services img {
+  max-width: 300px;
+  margin: auto;
+  display: block;
+}
+
+#services h3 {
+  font-size: 2.5em;
+  margin-bottom: 0.5em;
+}
+
+#services p {
+  text-align: justify;
+  font-size: 1.2em;
+}
+
+#portfolio {
+  padding-top: 5em;
+  padding-bottom: 5em;
+  background-color: #FFFFFF;
+  background: url(../../assets/img/2561346.png) center right;
+  background-repeat: no-repeat;
+  background-size: 40% auto;
+  opacity: 1;
+}
+
+#portfolio h2 {
+  font-size: 3em;
+  color: #333;
+  margin-bottom: 1em;
+}
+
+#portfolio h4 {
+  font-size: 1.8em;
+  margin-top: 0.5em;
+  margin-bottom: 0.5em;
+}
+
+#portfolio p {
+  margin-bottom: 1em;
+}
+
+#contact {
+  background-color: #47c2ff;
+  padding-top: 3em;
+  padding-bottom: 3em;
+}
+
+#contact h2 {
+  font-size: 3em;
+  margin-bottom: 1em;
+}
+
+#contact input, #contact textarea {
+  margin-bottom: 1.5em;
+}
+
+#contact button {
+  display: block;
+  margin: auto;
+  margin-bottom: 1em;
+}
+
+.copyright {
+  font-size: 1.5em !important;
+}
+
